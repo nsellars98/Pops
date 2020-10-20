@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/*Homework 8 Solution - pops_layout.php*/
+/*@author Nathan C. Sellars*/
+
+.error {
+    font-weight: bold;
+    color: red;
+    background-color: white;
+}
