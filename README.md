@@ -7,6 +7,8 @@ A more in-depth description of the files and the MVC process can be found under 
 
 Despite a cluttered display, the app is a working solution.
 
+Proof of test cases for the different CRUD operations can be found in the corresponding Word document along with screenshots showing the code when running.
+
 This app was developed with JetBrains PhpStorm (various versions), the XAMPP package for Windows (versions 7.3.1 - 7.4.11), and an online SQLite browser (https://extendsclass.com/).
 
 Thanks for looking!
